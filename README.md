@@ -1,7 +1,3 @@
-# N0rthWestW1nd DLC
+# SMM2DB API
 
-Just a DLC for the N0rthWestW1nd Discord bot.
-
-It is used to do the message ranking system.
-
-Nothing else.
+The API used by my SMM2DB site.
