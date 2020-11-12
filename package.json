@@ -1,0 +1,28 @@
+{
+  "name": "smm2db-api",
+  "version": "1.0.0",
+  "description": "The API of SMM2DB.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fast-csv": "^4.2.0",
+    "moment": "^2.27.0",
+    "mysql": "^2.18.1",
+    "mysqldump": "^3.1.0",
+    "nodemailer": "^6.4.13"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
